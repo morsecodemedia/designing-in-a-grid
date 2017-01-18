@@ -1,3 +1,17 @@
+Table of Contents
+====================
+* [Why did I create this repository?](#why-did-i-create-this-repository)
+* [What is in this repository?](#what-is-in-this-repository)
+* [Bootstrap 3 Grid Options](#bootstrap-3-grid-options)
+	* [X-Small Devices: Phones](#extra-small-devices-phones) 
+	* [Small Devices: Tablets](#small-devices-tablets)
+	* [Medium Devices: Desktops](#medium-devices-desktops)
+	* [Large Devices: Desktops](#large-devices-desktops)
+* [Additional Resources](#additional-resources)
+* [To Do](#to-do)
+
+----
+
 ## Why did I create this repository?
 
 ----
@@ -53,9 +67,18 @@
 
 ----
 
-## Credits
+## Additional Resources
 [Bootstrap](http://getbootstrap.com/css/): Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.  
+
+[Foundation for Sites](http://foundation.zurb.com/sites.html): Foundation is the most advanced responsive front-end framework in the world for creating responsive websites.  
+
+[Foundation for Emails](http://foundation.zurb.com/emails.html): Foundation for Emails is the first & most advanced responsive HTML email framework in the world. Quickly create responsive HTML emails that work on any device & client. Even Outlook.  
+
 [Minimit](http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates): For supplying a solid starting point (PSDs with grid lines) for designing to the grid in Bootstrap 3  
+
+[Foundation GUI Kit (PSD)](http://foundationpress.olefredrik.com/ui-kits/foundation-ui-kit-for-photoshop): by Ole Fredrik Lie  
+
+[Grid Displayer Bookmarklet](http://alefeuvre.github.io/foundation-grid-displayer/): by Antonie Lefeuvre
 
 ----
 
