@@ -18,6 +18,10 @@ Table of Contents
 
 ## What is in this repository?
 
+A small collection of PSD template files. These files have guides and grid layers to define the grid with gutters for various breakpoints. 
+
+Designers usually use the Photoshop guides to to define other alignments in the document, after awhile, the guides can get muddy and deciphering was is for the grid and what is to align elements becomes harder. Because of this, there are two variations of each template file - one with and one without gutters. The template file without gutters means that the guides are intact and there isn't an additional color visual to highlight the gutters of the grid. The template file with gutters just means there is an addited color layer that highlights the gutters so that designers may move the guides freely without losing site of the grid.
+
 ----
 
 ## Bootstrap 3 Grid Options
@@ -74,7 +78,7 @@ Table of Contents
 
 [Foundation for Emails](http://foundation.zurb.com/emails.html): Foundation for Emails is the first & most advanced responsive HTML email framework in the world. Quickly create responsive HTML emails that work on any device & client. Even Outlook.  
 
-[Minimit](http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates): For supplying a solid starting point (PSDs with grid lines) for designing to the grid in Bootstrap 3  
+[Minimit](http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates): Six PSD templates for designing with the responsive grid of Bootstrap 3  
 
 [Foundation GUI Kit (PSD)](http://foundationpress.olefredrik.com/ui-kits/foundation-ui-kit-for-photoshop): by Ole Fredrik Lie  
 
