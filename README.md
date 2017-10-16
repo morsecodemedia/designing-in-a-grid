@@ -14,6 +14,8 @@ Table of Contents
 
 ## Why did I create this repository?
 
+To help designers have a consistent starting point when creating responsive websites from scratch.
+
 ----
 
 ## What is in this repository?
