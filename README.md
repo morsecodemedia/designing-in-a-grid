@@ -27,6 +27,9 @@ Designers usually use the Photoshop guides to to define other alignments in the 
 ----
 
 ## Bootstrap 3 Grid Options
+
+**Note:** The following are the default settings for Bootstrap 3. The PSDs provided in this repository are based on these settings, and any alterations should be made at the start of a project prior to any design/development. Please consult with your TD prior to making any changes to the default settings.
+
 ### Extra small devices: Phones (<768px)
 **Grid behavior**: Horizontal at all times
 **Container width**: None (auto)
